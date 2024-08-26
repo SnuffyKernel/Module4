@@ -1,0 +1,40 @@
+GigabitEthernet0/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       8766     672993      14730    1028405
+             Route cache          0          0          0          0
+                   Total       8766     672993      14730    1028405
+GigabitEthernet0/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       6992     543516       9666     710622
+             Route cache          0          0          0          0
+                   Total       6992     543516       9666     710622
+GigabitEthernet0/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor      12069     856008      14280     986791
+             Route cache          0          0          0          0
+                   Total      12069     856008      14280     986791
+GigabitEthernet0/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor      10136     713101      10239     743555
+             Route cache          0          0          0          0
+                   Total      10136     713101      10239     743555
+GigabitEthernet1/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        305      27510      11969     932096
+             Route cache          0          0          0          0
+                   Total        305      27510      11969     932096
+GigabitEthernet1/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor         67       5886      11795     915160
+             Route cache          0          0          0          0
+                   Total         67       5886      11795     915160
+Port-channel2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       1666     217506          0          0
+             Route cache          0          0          0          0
+                   Total       1666     217506          0          0
+Port-channel1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       1911     257313          0          0
+             Route cache          0          0          0          0
+                   Total       1911     257313          0          0
